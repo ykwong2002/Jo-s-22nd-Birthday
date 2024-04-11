@@ -525,25 +525,27 @@ canvas {
 }
 
 .envelope:hover .letter{
-  transform: translateY(-100px);
+  transform: translateY(-150px);
   z-index: 2;
 }
 
 .text1{
   position: absolute;
   color: white;
-  font-family: sans-serif;
+  font-family: fantasy;
+  font-weight: bold;
+  font-size: 20px;
   top: -50%;
 }
 .text{
-  text-align: bottom;
+  text-align: center;
   font-size: 12px;
-  font-family: Helvetica, Helvetica, sans-serif;
-  margin-top: 5px;
+  font-family: fantasy, Helvetica, sans-serif;
+  margin-top: -55px;
   font-weight: bold;
   color: black;
   position: relative;
-  top: -5px;
+  top: 0px;
   left: 0px;
 }
 
