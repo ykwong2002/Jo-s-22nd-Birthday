@@ -37,30 +37,27 @@ body{
     font-size: 2.0rem;
     color: white;
     position: absolute;
-    left: 45%;
     top: 45%;
     opacity: 0;
     animation-name: untoldcoding3;
     animation-duration: 5s;
     animation-delay: 9s;
-    transform: rotate(-90deg);
     white-space: nowrap;
 }
 .fourth-text{
     font-size: 3.0rem;
-    color: rgb(240, 68, 68);
+    color: rgb(229, 249, 99);
     position: absolute;
-    left: 10%;
-    top: 10rem;
+    top: 45%;
     opacity: 0;
     animation-name: untoldcoding4;
-    animation-duration: 10s;
+    animation-duration: 5s;
     animation-delay: 13.5s;
 }
 
 .fifth-text{
     font-size: 3.5rem;
-    color: rgb(229, 249, 99);
+    color: rgb(240, 68, 68);
     position: absolute;
     left: 5%;
     bottom: 25%;
