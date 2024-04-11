@@ -536,7 +536,7 @@ canvas {
   top: -50%;
 }
 .text{
-  text-align: top;
+  text-align: bottom;
   font-size: 12px;
   font-family: Helvetica, Helvetica, sans-serif;
   margin-top: 5px;
